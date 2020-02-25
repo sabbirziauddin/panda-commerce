@@ -24,9 +24,15 @@
     cursor: pointer;
 }
 
-.cat1,
-cat2,
-cat3 {
+.cat1 {
+    padding: 10px 30px;
+}
+
+.cat2 {
+    padding: 10px 30px;
+}
+
+.cat3 {
     padding: 10px 30px;
 }
 
